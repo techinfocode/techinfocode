@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **react**
 
-- 📫 How to reach me **techinfocode2023@gmail.com**
+- 📫 How to reach me
 
 - 📄 Know about my experiences [techinfocode.com/resume](techinfocode.com/resume)
 
